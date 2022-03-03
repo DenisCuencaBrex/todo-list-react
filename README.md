@@ -12,7 +12,7 @@ A simple react native app with redux implementation.
 ## Insallation
 
 Clone this repository
-> `$ git clone https://github.com/rizbud/ToDoList.git YourAppName`  
+> `$ git clone git@github.com:DenisCuencaBrex/todo-list-react.git`  
 
 Move to your app directory  
 > `$ cd YourAppName`  
